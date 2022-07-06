@@ -1,6 +1,11 @@
 # LottoSim
 Customizable lottery simulator
 
+To compile:
+gcc *.c get_next_line/*.c
+OR
+clang *.c get_next_line/*.c
+
 Edit the global variables in main.c to your liking
 
 prizes.txt works this way:
