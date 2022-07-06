@@ -1,8 +1,6 @@
 # LottoSim
 Customizable lottery simulator
 
-git clone --recurse-submodules -j8 https://github.com/Nixo371/LottoSim
-
 Edit the global variables in main.c to your liking
 
 prizes.txt works this way:
