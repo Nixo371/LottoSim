@@ -1,0 +1,2 @@
+# LottoSim
+Customizable lottery simulator
