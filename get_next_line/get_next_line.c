@@ -12,6 +12,7 @@
 
 #include "get_next_line.h"
 
+int BUFFER_SIZE = 200;
 /*
 Returns char pointer passed to it after appending what is read up until
 the next line skip (\n), freeing the auxiliary char pointer used

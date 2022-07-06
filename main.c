@@ -1,5 +1,5 @@
 #include "lotto.h"
-#include "get_next_line-42/get_next_line.h"
+#include "get_next_line/get_next_line.h"
 
 int	num_of_tickets = 1000000; 	//How many tickets you're playing each run
 int	cost_of_ticket = 5;			//How much each ticket costs
